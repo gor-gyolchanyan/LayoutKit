@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NameKit",
+        "repositoryURL": "git@github.com:technogen-gg/NameKit.git",
+        "state": {
+          "branch": null,
+          "revision": "7ec38be6a71230325a552bb5882dea3673786300",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
